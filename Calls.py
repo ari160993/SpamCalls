@@ -1,6 +1,6 @@
-subrek_anying(){
-xdg-open https://youtu.be/sAzb9c911FA
-sleep 5
+}
+(1)
+(2)
 }
 m="\033[31;1m"
 k="\033[1;33m"
