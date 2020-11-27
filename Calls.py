@@ -26,7 +26,7 @@ lagi(){
 __main__(){
 sleep 0.5
 clear
-subrek_anying
+subrek_Jovan
 clear
 sleep 0.1
 printf "${u}╔═╗╦═╗╔═╗╔╦╗     ${bi}╔═╗╔═╗╗  ╗";printf "\n${u}╚═╗╠═╝╠═╣║║║ ${m}<${h}•${m}> ${bi}║  ╠═╣║  ║";printf "\n${u}╚═╝╩  ╩ ╩╩ ╩     ${bi}╚═╝╩ ╩╚═╝╚═╝ ${k}New";printf "\n${b}══════════════════════════════════";printf "\n${b}=${m}[ ${pu}Author ${m}: ${bi}Rexure GGS";printf "\n${b}=${m}[ ${pu}Youtube${m}: ${bi}Rexure GGS";printf "\n${b}=${m}[ ${pu}Github ${m}: ${hg}Github.com/Rexure${p}";printf "\n${b}══════════════════════════════════";sleep 0.1;printf $p"\n[${h}+${p}] ${k}Contoh ${m}: ${p}85xxxxxxxxx\n";gaskeun_lah_anying
