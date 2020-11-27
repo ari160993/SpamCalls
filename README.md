@@ -9,4 +9,6 @@ $ pkg install git
 $ pip2 install requests  
 $ git clone https://github.com/ari160993/SpamCalls
 $ cd SpamCall
-$ python2 main.py
+$ python2 cyber.py
+
+Jika fatal : rm -rf spamcalls
